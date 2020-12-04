@@ -8,7 +8,7 @@
         * for every one create a function that return specific type of data
 */
 
-// Hend Isleem 220171091
+// Hend Isleem 220171091 Java script homework
 let data = require("./hw.json");
 
 function AllToppingTypes() {
